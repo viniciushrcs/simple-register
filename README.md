@@ -6,7 +6,7 @@ The structure of the project is quite simple, allowing to create, update and del
 
 ## Running the app
 
-To run the project you just need to clone this repo and run <docker-compose up> in your CLI.
+To run the project you just need to clone this repo and run 'docker-compose up' in your CLI.
   
 The docker compose will run 3 containers:
   - nginx
